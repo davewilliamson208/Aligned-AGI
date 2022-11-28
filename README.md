@@ -1,5 +1,4 @@
 # Aligned-AGI
-Aligned AGI
 As the surveillance camera scanned my face, I made a break for it. It was 3:46, and I had to give a presentation on our general AI to my director and a few other company executives at 4. The same topic was scheduled for an online event the following day, and it wasn't ready. We expected this presentation to be complete, ready to be delivered to the company's spokesperson.
 
 
